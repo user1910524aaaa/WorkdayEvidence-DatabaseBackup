@@ -1,6 +1,11 @@
 # WorkdayEvidence
 
 ### DatabaseBackup
-Administrator account username: admin_test
+Database Engine: SQL Server
 
-Administrator account password: admin
+User required for database connection: 'we_admin'
+
+
+Application Administrator Account Username: admin_test
+
+Application Administrator Account Password: admin
